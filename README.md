@@ -1,0 +1,1 @@
+An attempt to create a simple single signon service.
